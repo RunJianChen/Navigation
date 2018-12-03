@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Qlearn::Qlearning():Qlearn.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Qlearn::update_Qtable(map_point*, int):Qlearn.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "Reward[Get_point_ID(state)].right">
+            </PersistentString>
+            <PersistentString
+               value = "next_state">
+            </PersistentString>
+            <PersistentString
+               value = "Qtable[Get_point_ID(state)].down">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Qlearn::Set_Reward():Qlearn.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "map">
+            </PersistentString>
+            <PersistentString
+               value = "*map">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "static_cast&lt;int&gt;(*map_data)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
